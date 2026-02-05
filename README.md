@@ -2,6 +2,7 @@
 <h3 align="center">A passionate full stack developer</h3>
 
 - 🌱 I’m currently learning **Frontend Development Part and Programming language skills.**
+- 🌍 I'm based in Bangkok.
 
 <h3 align="left">Socials</h3>
 <p align="left">
