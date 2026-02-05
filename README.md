@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, My name is Thamonwan Phansamrit</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-- 🌱 I’m currently learning **Frontend Development Part and Programming language skills.**
 - 🌍 I'm based in Bangkok.
+- 🌱 I’m currently learning **Frontend Development Part and Programming language skills.**
+
 
 <h3 align="left">Socials</h3>
 <p align="left">
