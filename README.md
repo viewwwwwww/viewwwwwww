@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, My name is Thamonwan Phansamrit</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-- 🌍 I'm based in Bangkok.
+- 🌍 Based in Bangkok, Thailand
 - 🌱 I’m currently learning **Frontend Development Part and Programming language skills.**
 
 
 <h3 align="left">Socials</h3>
 <p align="left">
-<a href="https://fb.com/ThamonwanPhansamrit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ThamonwanPhansamrit" height="30" width="40" /></a>
+<a href="https://fb.com/wwww.tp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ThamonwanPhansamrit" height="30" width="40" /></a>
 <a href="https://instagram.com/vw_tp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vw_tp" height="30" width="40" /></a>
 </p>
 
